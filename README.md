@@ -1,16 +1,43 @@
-# minimal_login
+![Image](assets/1.png)
 
-A new Flutter project.
+<center>
+<img src= assets/2.png
+alt="Logo Kuş" width="400" /></a>
+</center>
 
-## Getting Started
+## Minimal Login
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Proje içeriği; Flutter ile yapılmış login tasarım içermektedir.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Installation
+
+Öncelikle projeyi clonelayın.
+
+```
+https://github.com/Mucahid-Canbey/minimal-login-flutter.git
+```
+
+### Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```
+cd minimal-logo-flutter
+code .
+```
+### Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+<center>
+<img src= assets/Project.png
+alt="Logo Kuş" width="400" /></a>
+</center>
